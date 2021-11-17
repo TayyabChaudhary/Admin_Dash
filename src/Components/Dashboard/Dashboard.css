@@ -1,0 +1,40 @@
+:root {
+    --dark-gray_700: #f1f5fb;
+    --orange-color-700: #f78f1e;
+    --green_color-500: #00e62e;
+}
+
+._p_a_as_d {
+    background-color: var(--dark-gray_700);
+}
+._circle_image {
+    background-image: url("../../dist/asset/images/circle.png");
+    background-position: center;
+    width: 120px;
+    height: 120px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.ididi9diid{
+    width: 300px;
+}
+.kssoos {
+    color: var(--orange-color-700);
+}
+._oo_aa {
+    width: 30px;
+    height: 30px;
+    background-color: var(--green_color-500);
+}
+.kdoodod{
+    color: var(--green_color-500);
+}
+
+._oo_aas{
+    width: 30px;
+    height: 30px;
+    background-color: red;
+}
+.kdoodsod{
+    color: red;
+}
