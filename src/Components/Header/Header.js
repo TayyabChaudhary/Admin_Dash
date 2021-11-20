@@ -31,7 +31,7 @@ export default function Header() {
                         <div className="search_box">
                             <form className="relative">
                                 <img src={SearchImage} className="absolute z-20 ml-4 mt-5" />
-                                <input type="text" name="search" id="search" autocomplete="search" className="mt-1 focus:ring-indigo-500 focus:border-indigo-500 p-2 pl-12 outline-none w-52 shadow-sm sm:text-sm relative border-gray-300 rounded-md" placeholder="Search here " />
+                                <input type="text" name="search" id="search" autocomplete="search" className="mt-1 focus:ring-indigo-500 focus:border-indigo-500 p-2 pl-12 outline-none w-52 shadow-sm sm:text-sm relative border-gray-300 rounded-md iidodo" placeholder="Search here " />
                                 <button className="_APAPAP text-white flex items-center rounded-md absolute right-4 top-4">
                                     <img src={FilterImage} className="mr-2" />
                                     Filters

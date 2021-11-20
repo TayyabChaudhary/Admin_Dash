@@ -3,21 +3,27 @@
     --orange-color-700: #f78f1e;
 }
 
-
 ._paoa {
-background-color: var(--dark-gray_700);
+    background-color: var(--dark-gray_700);
 }
-.oaiai{
+.oaiai {
     min-height: 80vh;
 }
-._oapapa{
+
+._oapapa {
     right: 7px;
     top: 45px;
+    background-image: url("../../dist/asset/images/Edit.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 19px;
+    height: 30px;
 }
-._oapap{
+._oapap {
     right: 11px;
     bottom: 10px;
 }
+
 .animated {
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
